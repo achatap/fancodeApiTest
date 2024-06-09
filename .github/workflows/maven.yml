@@ -5,7 +5,7 @@ name: API Cucumber Workflow
 
 on:  
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 jobs:
   build:
